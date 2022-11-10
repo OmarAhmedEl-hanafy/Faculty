@@ -67,3 +67,13 @@ elif x == y == z:
     print("The 3 Persons are the Same Age")
 else:
     print("!!!! Please Enter Valid Number !!!!")
+
+
+print('hello from stash')
+a = 50
+b = 70
+c = 20
+d = 10
+e = 5
+b = 70
+f = 5
